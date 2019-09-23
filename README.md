@@ -13,7 +13,7 @@
    	--复制图片到指定文件夹
    ```
 
-3. renameFile.py
+3. [renameFile.py](https://github.com/junglegodlion/script/blob/master/renameFile.py)
 
    ```
    python脚本
