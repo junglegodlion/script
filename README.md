@@ -20,4 +20,11 @@
    	--文件重命名
    ```
 
+4. [string2PDF.py](https://github.com/junglegodlion/script/blob/master/string2PDF.py)
+
+   ```
+   python脚本
+   	--string转pdf
+   ```
+
    
