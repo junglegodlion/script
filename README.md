@@ -36,4 +36,13 @@
    	--调用高德api生成经纬度
    ```
 
+6. [getId.py]( https://github.com/junglegodlion/script/blob/master/getId.py )
+
+   ```
+   python脚本
+   	--生成指定年份的所有日期
+   	--id-validator验证身份证号合法性
+   ```
+
    
+
