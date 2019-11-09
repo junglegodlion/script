@@ -44,7 +44,7 @@
    	--id-validator验证身份证号合法性
    ```
 
-7. getIP.py
+7. [getIP.py]( https://github.com/junglegodlion/script/blob/master/getIP.py )
 
    ```
    python脚本
