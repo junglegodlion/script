@@ -44,5 +44,12 @@
    	--id-validator验证身份证号合法性
    ```
 
+7. getIP.py
+
+   ```
+   python脚本
+   	--获取可用代理IP
+   ```
+
    
 
