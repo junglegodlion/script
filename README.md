@@ -51,7 +51,7 @@
    	--获取可用代理IP
    ```
 
-8. get_Picture.py
+8. [get_Picture.py]( https://github.com/junglegodlion/script/blob/master/get_Picture.py )
 
    ```
    python脚本
