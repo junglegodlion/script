@@ -1,6 +1,6 @@
 #！/usr/bin/env python
 #-*- coding:utf-8 -*-
-#author：Zisc
+
 import os
 import requests
 import time
