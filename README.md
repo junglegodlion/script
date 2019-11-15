@@ -58,5 +58,14 @@
    	--批量下载壁纸
    ```
 
+9. [getVideo.py]( https://github.com/junglegodlion/script/blob/master/getVideo.py )
+
+   ```
+   python脚本
+   	--视频下载
+   	--断点续传
+   	--异步下载
+   ```
+
    
 
