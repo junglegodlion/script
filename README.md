@@ -74,5 +74,12 @@
     	--破解密码压缩包
     ```
 
+11. [cpulimit.sh]( https://github.com/junglegodlion/script/blob/master/cpulimit.sh )
+
+    ```
+    shell脚本
+    	--用cpulimit 动态限制进程cpu使用率
+    ```
+
     
 
