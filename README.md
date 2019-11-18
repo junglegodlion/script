@@ -67,5 +67,12 @@
    	--异步下载
    ```
 
-   
+10. [jieyaZIP]( https://github.com/junglegodlion/script/tree/master/jieyaZIP )
+
+    ```
+    python脚本
+    	--破解密码压缩包
+    ```
+
+    
 
