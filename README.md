@@ -81,5 +81,17 @@
     	--用cpulimit 动态限制进程cpu使用率
     ```
 
+12. [getWeather.py]( https://github.com/junglegodlion/script/blob/master/getWeather.py )
+
+    ```
+    python脚本
+    	--爬取天气信息
+    	--邮件通知
+    ```
+
     
+
+
+
+
 
