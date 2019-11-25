@@ -89,9 +89,19 @@
     	--邮件通知
     ```
 
-13. ```
+13.  [getZHIHU.py](https://github.com/junglegodlion/script/blob/master/getZHIHU.py) 
+
+    ```
     python脚本
     	--知乎视频解析
+    ```
+
+14.  [downloadpicture](https://github.com/junglegodlion/script/tree/master/downloadpicture) 
+
+    ```
+    python脚本
+    	--	图片下载
+    	-- 面对对象编程
     ```
 
     
