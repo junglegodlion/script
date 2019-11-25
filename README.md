@@ -95,21 +95,16 @@
     python脚本
     	--知乎视频解析
     ```
-
     
-
-14.  [downloadpicture](https://github.com/junglegodlion/script/tree/master/downloadpicture) 
+14. [downloadpicture](https://github.com/junglegodlion/script/tree/master/downloadpicture)
 
     ```
-    python脚本
-    	-- 图片下载
-    	-- 面对对象编程
+     python脚本
+        	-- 图片下载
+        	-- 面对对象编程
     ```
 
     
-    
-    
-
 
 
 
