@@ -111,6 +111,13 @@
     	-- 使用Python3 将csv格式存入MySql数据库
     ```
 
+16. [getChar.ipynb](https://github.com/junglegodlion/script/blob/master/getChar.ipynb)
+
+    ```
+    python脚本
+    	-- 字符集检测
+    ```
+
     
 
 
