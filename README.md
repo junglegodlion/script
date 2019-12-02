@@ -118,6 +118,14 @@
     	-- 字符集检测
     ```
 
+17. [testURL.py](https://github.com/junglegodlion/script/blob/master/testURL.py)
+
+    ```
+    python脚本
+    	-- 验证url是否可以访问
+    	-- pandas操作excel表格
+    ```
+
     
 
 
