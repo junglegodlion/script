@@ -126,6 +126,14 @@
     	-- pandas操作excel表格
     ```
 
+18. [getPictureInfo.ipynb](https://github.com/junglegodlion/script/blob/master/getPictureInfo.ipynb)
+
+    ```
+    python脚本
+    	-- 获取图片原图信息
+    	-- 百度地图api使用
+    ```
+
     
 
 
