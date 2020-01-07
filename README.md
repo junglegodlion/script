@@ -134,6 +134,13 @@
     	-- 百度地图api使用
     ```
 
+19. [OCR.py](https://github.com/junglegodlion/script/blob/master/ORC.py)
+
+    ```
+    python脚本
+    	-- 实时截图识别通用文本
+    ```
+
     
 
 
