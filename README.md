@@ -141,7 +141,16 @@
     	-- 实时截图识别通用文本
     ```
 
+20. [DeleteFileByName.py](https://github.com/junglegodlion/script/blob/master/DeleteFileByName.py) 
+
+    ```
+    python脚本
+    	-- 实删除文件夹指定文件
+    ```
+
     
+
+
 
 
 
